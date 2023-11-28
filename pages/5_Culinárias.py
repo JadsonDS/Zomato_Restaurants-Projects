@@ -247,7 +247,7 @@ def clean_code(df1):
 # ==================================================
 # Import dataset
 # ==================================================
-df=pd.read_csv('../dataset/zomato.csv')
+df=pd.read_csv('dataset/zomato.csv')
 
 # ==================================================
 # Limpando os dados
