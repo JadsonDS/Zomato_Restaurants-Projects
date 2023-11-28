@@ -45,7 +45,7 @@ def mapa(df1):
                       'aggregate_rating']],
                       icon=folium.Icon(color=cor(i), icon='home')).add_to(marker_cluster) 
 
-    folium_static(map, width=900, height=370)
+    folium_static(map, width=880, height=360)
 
     return None
 
