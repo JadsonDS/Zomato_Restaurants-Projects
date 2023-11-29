@@ -14,7 +14,7 @@ st.sidebar.subheader('For the love of Food')
 st.sidebar.subheader('', divider='gray')
 st.sidebar.subheader('Powered by: Jadson N Santos')
 
-st.write('# Zomato Restaurants - Dasbord')
+st.write('# Zomato Restaurants - Dashbord')
 
 st.markdown(
     """
